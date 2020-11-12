@@ -1,7 +1,7 @@
 # COYA Latex Template
 
 Dieses Template soll einen einfachen Weg zeigen, um eigene Abenteuer im Choose-Your-Own-Adventure-Stil zu entwerfen - ohne zu viel Zeit mit dem Setup zu verschwenden.
-Mit Hilfe einfacher Definitionen in LaTeX und dem großartigen Template [rpgtex/DND-5e-LaTeX-Template](https://github.com/rpgtex/DND-5e-LaTeX-Template) wird ein kurzes Abenteuer beschrieben.
+Mit Hilfe einfacher Definitionen in LaTeX und dem großartigen Template [rpgtex/DND-5e-LaTeX-Template](https://github.com/rpgtex/DND-5e-LaTeX-Template) wird ein kurzes Abenteuer beschrieben. Ein Beispiel, wie dieses Template verwendet werden kann, ist [coya_osmonias_tower](https://github.com/bearbob/coya_osmonias_tower).
 
 ## Hilfsdefinitionen
 
